@@ -3,7 +3,7 @@ from twilio rest import Client
 from datetime imprt datetime,timedelta
 import time
 
-#step2 twilio cridentials
+#step2 twilio cridentials from their website
 account_sid='xxx'
 auth_token='xxx'
 
