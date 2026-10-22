@@ -20,3 +20,4 @@ def send_whatsapp_message(receipient_number,message_body):
     print(f'Message sent successfully! Message SID{message.sid}')
   except Exception as e:
     print('An error occured')
+    
